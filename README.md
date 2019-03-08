@@ -1,2 +1,2 @@
 # ft_sommelier
-My progress for the ft_sommelier 42 project
+My progress for the [ft_sommelier](https://cdn.intra.42.fr/pdf/pdf/1391/ft_sommelier.en.pdf) 42 project. The python file is the current code snippet that I'm working on, while the Jupyter Notebook file contains my finished work. Though even that's probably not finished...
